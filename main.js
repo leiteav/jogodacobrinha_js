@@ -27,8 +27,8 @@ function criarCobrinha() {
 }
 
 function drawFood(){
-    context.fillStyle = "magenta";
-    context.fillStyle(food.x, food.y, box, box);
+    context.fillStyle = "green";
+    context.fillRect(food.x, food.y, box, box);
 }
 
 document.addEventListener('keydown', update);
