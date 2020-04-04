@@ -1,2 +1,3 @@
-# jogodacobrinha_js
+# Snake Game
 Jogo da cobrinha criado com Javascript.
+
