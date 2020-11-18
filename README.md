@@ -1,3 +1,3 @@
-# :snake: Snake Game
-Jogo da cobrinha criado com Javascript.
+#  Snake Game
+:snake: Jogo da cobrinha criado com Javascript.
 
